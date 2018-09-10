@@ -1,0 +1,17 @@
+requests
+asyncio
+google-oauth
+gcloud
+google-api-python-client
+google-cloud-storage
+google-cloud-datastore
+google-cloud-pubsub
+google-cloud-bigquery
+bottle
+bottle-healthcheck
+bottle-rest
+bottle-utils
+gunicorn
+ntplib
+bottle-rest
+
